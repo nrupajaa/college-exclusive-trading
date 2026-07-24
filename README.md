@@ -13,14 +13,14 @@ A desktop marketplace exclusively for students to buy and sell items with each o
 ## Project Structure
 
 ```
-├── main.py             # App entry point
-├── ui.py                # Tkinter UI (all pages/frames)
-├── database.py           # SQLite setup and CRUD helpers
-├── chat_assistant.py     # Grok API integration + SQL safety checks
-├── theme.py               # UI styling
-├── config.py               # App constants and API key loading
+├── main.py             
+├── ui.py               
+├── database.py           
+├── chat_assistant.py    
+├── theme.py               
+├── config.py              
 ├── requirements.txt
-└── data/                    # Auto-created: SQLite DB + uploaded images (ignored by git)
+└── data/                  
 ```
 
 ## Setup
