@@ -1,0 +1,26 @@
+# App data (local database + uploaded images)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
