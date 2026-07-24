@@ -1,6 +1,6 @@
-# NHCE Marketplace
+# College Marketplace
 
-A desktop marketplace app for NHCE students to buy and sell items with each other. Built with Python and Tkinter, backed by a local SQLite database, with an optional AI chat assistant (powered by xAI's Grok API) that can answer natural-language questions about the product catalog.
+A desktop marketplace exclusively for students to buy and sell items with each other. Built with Python and Tkinter, backed by a local SQLite database, with an optional AI chat assistant (powered by xAI's Grok API) that can answer natural-language questions about the product catalog.
 
 ## Features
 
